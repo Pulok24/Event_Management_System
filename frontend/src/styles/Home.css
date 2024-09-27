@@ -1,0 +1,79 @@
+/* Hero section */
+.hero {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .content {
+    margin-bottom: 24px;
+  }
+  
+  .textt {
+    color: black;
+    margin-bottom: 24px;
+    font-weight: bold;
+  }
+  
+  /* Main button */
+  .main-button {
+    color: black;
+    border-radius: 20px;
+    width: 200px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    background-color: transparent;
+    border: 1px solid black;
+    cursor: pointer;
+  }
+  
+  .main-button:hover {
+    background-color: white;
+    color: black;
+  }
+  
+  /* Content boxes */
+  .content-box1, .content-box2 {
+    margin: 40px 0;
+    text-align: center;
+  }
+  
+  .info-text {
+    margin: 40px 0 24px;
+    font-weight: 600;
+    font-size: x-large;
+  }
+  
+  /* Second button */
+  .second-button {
+    color: white;
+    border-radius: 20px;
+    width: 200px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    background-color:rgb(109, 81, 71);
+    cursor: pointer;
+  }
+  
+  .second-button:hover {
+    background-color: white;
+    color: black;
+  } 
+
+  .content-box1 a{
+    margin-left: 140px;
+  }
+
+  .content-box2 a{
+    margin-left: 150px;
+  }
+  
