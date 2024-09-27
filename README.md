@@ -7,6 +7,7 @@ The Event Management System is a web application designed to facilitate the crea
 Features-
 
 - User Authentication:  Secure login and registration for users.
+-	BCrypt Algorithm: Used for hashing passwords, which keeps user passwords safe.
 - Event Creation:   Users can create and manage events.
 - Attendee Registration: Open registration for attendees to join events.
 - Event Listing: List of all available events
